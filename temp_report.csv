@@ -1,0 +1,4 @@
+Mold ID, Name, Description, Status, Check-In Date, Check-Out Date
+M1, Mold 1, Description 1, not_in_use, None, None
+M2, Mold 2, Description 2, not_in_use, None, None
+M3, Mold 3, Description 3, not_in_use, None, None
